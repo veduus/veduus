@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veduus" alt="veduus" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Data JPA**
+- 🌱 I’m currently learning **AI and Prompt Engineering**
 
-- 💬 Ask me about **Java,Spring Boot,Multithreading,JDBC,Microsevices,Hibernate**
+- 💬 Ask me about ** Python,pandas,Numpy,Java,Spring Boot,Multithreading,JDBC,Microsevices,Hibernate**
 
 - 📫 How to reach me **bairagiashwini08@gmail.com**
 
